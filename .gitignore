@@ -1,0 +1,12 @@
+x *.egg*
+tags
+venv
+build/
+dist/
+__pycache__
+**/*.pyc
+**/.idea
+docs/_build
+.coverage
+.htmlcov/
+.cache/
