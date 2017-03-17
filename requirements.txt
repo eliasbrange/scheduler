@@ -1,0 +1,10 @@
+-e .
+
+#
+# Tools needed during development
+#
+flake8>=2.1.0
+ipython>=4.0.0
+ipdb>=0.8.1
+pytest>=2.9.1
+coverage>=4.0.0
